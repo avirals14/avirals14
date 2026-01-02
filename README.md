@@ -14,7 +14,6 @@
 ---
 
 ## 🌱 Currently Learning
-- Django & Django REST Framework  
 - Backend architecture & best practices  
 - Improving problem-solving with DSA  
 
